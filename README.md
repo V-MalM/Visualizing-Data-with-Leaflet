@@ -35,7 +35,7 @@ Lets first visualize an earthquake data set.
 
 ### Level 2: More Data
 
-![5-Advanced](Images/5-Advanced.png)
+![5-Advanced](Images/sat_tect.jpg)
 
 This is plot of a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. The Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>. Used the Url for tectonic plates and created visualization alongside original set of data. 
 
