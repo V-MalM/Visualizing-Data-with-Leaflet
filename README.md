@@ -46,3 +46,4 @@ This step includes:
 * Adding base maps to choose from as well as separate out two different data sets into overlays that can be turned on and off independently.
 
 * Adding layer controls to our map.
+<p><img src="Images/sat_eq.jpg" width="30%">&nbsp;&nbsp;<img src="Images/grsc_eq.jpg" width="30%">&nbsp;&nbsp;<img src="Images/od_eq.jpg" width="30%"></p>
