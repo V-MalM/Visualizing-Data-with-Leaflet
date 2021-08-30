@@ -11,7 +11,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ### Level 1: Basic Visualization
 
 ![2-BasicMap](Images/scr2_full.jpg)
-![3-BasicMapClose](Images/scr3_close.jpg)
 Lets first visualize an earthquake data set.
 
 1. **Source Data set**
@@ -31,6 +30,8 @@ Lets first visualize an earthquake data set.
    * Each circular marker opens a popup that provides additional information about the earthquake when it is clicked.
 
    * The legend provides context for map data.
+   
+   ![3-BasicMapClose](Images/scr3_close.jpg)
 
 ### Level 2: More Data
 
