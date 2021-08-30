@@ -167,5 +167,3 @@ function createMap(earthquakes) {
   
 
 }
-
-
