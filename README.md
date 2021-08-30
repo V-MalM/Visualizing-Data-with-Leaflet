@@ -45,4 +45,4 @@ This step includes:
 
 * Adding base maps to choose from as well as separate out two different data sets into overlays that can be turned on and off independently.
 
-* Addig layer controls to our map.
+* Adding layer controls to our map.
