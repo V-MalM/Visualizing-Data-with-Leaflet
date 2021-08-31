@@ -36,7 +36,7 @@ Lets first visualize an earthquake data set.
    
    ![3-BasicMapClose](Images/scr3_close.jpg)
 
-### Level 2: More Data
+### Level 2: More Data - Tectonic Plates
 
 ![5-Advanced](Images/sat_tect.jpg)
 
