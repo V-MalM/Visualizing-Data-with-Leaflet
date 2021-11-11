@@ -1,7 +1,7 @@
 #  Visualizing Data with Leaflet
 
 **Link To Leaflet Visualization :** 
-https://v-malm.github.io/leaflet-challenge/Leaflet/
+https://v-malm.github.io/Visualizing-Data-with-Leaflet/Leaflet/
 
 ## Background
 
